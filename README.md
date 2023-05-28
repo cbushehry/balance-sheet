@@ -1,14 +1,15 @@
 # BALANCE SHEET
 
 ## 1. Description
-freeCodeCamp project.
+freeCodeCamp HTML & CSS balance sheet project.
 
-[DIRECT LINK](https://cbushehry.github.io/balance-sheet/)
+DEPLOYMENT:
+ [DIRECT LINK](https://cbushehry.github.io/balance-sheet/) | [GITHUB REPOSITORY](https://github.com/cbushehry/balance-sheet)
 
 ## 2. Features
  * Review the codebase to see how to build your own balance sheet with HTML and CSS.
 <br></br>
- ![](assets/images/balance-sheet.jpg)
+ ![balance-sheet main](assets/images/balance-sheet.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
